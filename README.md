@@ -39,16 +39,10 @@
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=hugossanchezz&show_icons=true&theme=dark&locale=es" alt="hugossanchezz" />
 </div>
 
-<div>
-  <a href="https://github.com/hugossanchezz/Proyectos/tree/main/proyecto_cine_1DAW">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugossanchezz&repo=proyecto_cine_1DAW&theme=onedark" />
-</a>    
-</div>
-
-
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=hugossanchezz&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+<div align="center"> 
+  <p>Visitor count</p>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/hugossanchezz/count.svg"/>
+  </div> 
 </div>
 
