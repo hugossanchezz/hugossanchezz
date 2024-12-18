@@ -40,9 +40,14 @@
 </div>
 
 <div align="center"> 
-  <p>Visitor count</p>
+  <h1>Visitor count</h1>
   <div align="center">
     <img src="https://profile-counter.glitch.me/hugossanchezz/count.svg"/>
   </div> 
 </div>
 
+ ## Repositorios Destacados
+
+<a href="https://github.com/hugossanchezz/Proyectos/tree/main/proyecto_cine_1DAW">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugossanchezz&repo=proyecto_cine_1DAW&theme=highcontrast" alt="Proyecto Cine 1DAW" />
+</a>
