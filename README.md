@@ -1,5 +1,5 @@
 
-# <div align="center"><b>Hola, soy Hugo Sánchez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
+# <div align="center"><b>Hola, soy Hugo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
