@@ -54,14 +54,6 @@
 
 ---
 
-## <div align="center"> Visitor count </div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/hugossanchezz/count.svg"/>
-</p>
-
----
-
 ## <div align="center">📞 CONTACTO</div>
 
 <p align="center">
